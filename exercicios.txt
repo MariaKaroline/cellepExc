@@ -1,0 +1,36 @@
+	
+Exercícios de JavaScript
+Pratique os conceitos aprendidos em aula resolvendo os exercícios de lógica de programação a seguir.
+
+1. Crie um programa que armazene seu nome em uma variável e imprima a mensagem "Olá, [nome]" utilizando Template String
+
+2. Crie um programa com duas variáveis do tipo Double e imprima a soma das mesmas
+
+3. Crie um programa que imprima o valor ao quadrado de um número
+
+4. Crie um programa que imprima o dobro de um número
+
+5. Crie um programa que utilize os operadores aritméticos e imprima o antecessor e o sucessor de um número
+
+6. Crie um programa que calcule e imprima o total de dias em 7 meses, considerando que cada mês tenha 30 dias
+
+7. Crie um programa que calcule e imprima a média das cinco notas de um aluno
+
+8. Crie um programa que converta metros para centímetros e imprima o resultado
+
+9. Crie um programa que calcule o desconto na venda de um produto
+
+
+10. Crie funções para as 4 operações aritméticas básicas
+
+11. Utilizando instrução condicional, crie um programa que determine se uma pessoa é maior ou menor de idade
+
+12. Utilizando instrução condicional e operadores relacionais, crie um programa que identifique se um determinado número inteiro é par ou ímpar
+
+13. Utilizando instrução condicional e operadores lógicos, crie um programa que simule um sistema de login
+
+14. Utilizando funções e estrutura condicional, crie um programa que calcule o IMC de uma pessoa, imprimir o valor do IMC e sua classificação
+
+15. Utilizando o loop de repetição for, crie um programa que imprima qualquer tabuada
+
+16. Utilizando o loop de repetição for, instrução condicional, e operadores relacionais e lógicos crie um programa que conte a quantidade de vogais em uma String
